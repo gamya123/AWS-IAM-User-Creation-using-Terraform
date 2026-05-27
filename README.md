@@ -23,5 +23,6 @@ This IAM user is used by Terraform to authenticate with AWS services.
 Generated:<br>
 Access Key ID<br>
 Secret Access Key<br>
+<img width="1178" height="658" alt="image" src="https://github.com/user-attachments/assets/3779b1d1-c626-4818-b6b1-5b424b8311ce" />
 These credentials were configured in AWS CLI using:<br>
 aws configure
