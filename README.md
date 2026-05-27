@@ -13,3 +13,8 @@ Linux (Amazon Linux EC2)
 Launched an EC2 instance in AWS.<br>
 Connected to the server using SSH.<br>
 Used the server as a Terraform execution environment.<br>
+
+
+## Step 2: Created IAM User
+Created an IAM user named:devops-user.<br>
+This IAM user is used by Terraform to authenticate with AWS services.
