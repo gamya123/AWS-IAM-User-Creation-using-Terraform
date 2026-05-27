@@ -68,5 +68,10 @@ terraform apply<br>
 Purpose:<br>
 Creates AWS resources defined in Terraform file
 
+# Output
+Successfully created an AWS IAM user using Terraform automation.<br>
+<img width="1260" height="418" alt="image" src="https://github.com/user-attachments/assets/cade33fa-422b-405e-8c9e-1c9231eedef6" />
+
+
 
 
