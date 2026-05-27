@@ -18,3 +18,5 @@ Used the server as a Terraform execution environment.<br>
 ## Step 2: Created IAM User
 Created an IAM user named:devops-user.<br>
 This IAM user is used by Terraform to authenticate with AWS services.
+<img width="1488" height="372" alt="image" src="https://github.com/user-attachments/assets/e6576e1e-2f1f-4f51-9462-f9b10aec8354" />
+
