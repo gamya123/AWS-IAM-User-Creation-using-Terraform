@@ -25,7 +25,8 @@ Access Key ID<br>
 Secret Access Key<br>
 <img width="1178" height="658" alt="image" src="https://github.com/user-attachments/assets/3779b1d1-c626-4818-b6b1-5b424b8311ce" />
 These credentials were configured in AWS CLI using:<br>
-aws configure
+aws configure<br>
+<img width="1116" height="170" alt="image" src="https://github.com/user-attachments/assets/1bb95cf9-43e8-4d25-aea9-f340cba97cbd" />
 
 ## Step 4: Attached IAM Permissions
 Attached a custom IAM policy in JSON format to allow Terraform to create IAM users.<br>
