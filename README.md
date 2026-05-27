@@ -5,7 +5,7 @@ This project demonstrates how to create and manage an AWS IAM user using Terrafo
 Terraform<br>
 AWS IAM<br>
 AWS CLI<br>
-Git & GitHub<br>
+GitHub<br>
 Linux (Amazon Linux EC2)
 
 # Project Workflow
@@ -71,6 +71,13 @@ Creates AWS resources defined in Terraform file
 # Output
 Successfully created an AWS IAM user using Terraform automation.<br>
 <img width="1260" height="418" alt="image" src="https://github.com/user-attachments/assets/cade33fa-422b-405e-8c9e-1c9231eedef6" />
+
+# Learning Outcomes
+Learned Terraform basics<br>
+Understood Infrastructure as Code (IaC)<br>
+Configured AWS authentication<br>
+Worked with IAM policies<br>
+Used Terraform lifecycle commands
 
 
 
