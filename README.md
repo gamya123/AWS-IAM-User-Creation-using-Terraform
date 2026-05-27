@@ -34,5 +34,7 @@ Attached a custom IAM policy in JSON format to allow Terraform to create IAM use
 
 ## Step 5: Installed Terraform
 Installed Terraform on the Linux server and verified installation using:<br>
-terraform -version
+terraform -version<br>
+<img width="1908" height="337" alt="image" src="https://github.com/user-attachments/assets/4940216c-ca2b-4f00-8d90-2fee3da3fe8f" />
+
 
